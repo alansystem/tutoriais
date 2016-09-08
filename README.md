@@ -1,3 +1,5 @@
+<h4>Sistema de Artigos / Tutoriais - Criado para o fornecimento / visualização de tutoriais e artigos principalmente na área de TI / Equipe.</h4>
+
 <h3>Instalação</h3>
 
 <p>1) Suba o banco de dados "database.sql" que encontra-se na raiz do projeto</p>
@@ -13,5 +15,5 @@
 <p>Login: admin<br>Senha: admin</p>
 
 
-<p>Acesso LEITOR</p>
+<p>Acesso Visualização - LEITOR</p>
 <p>Login: leitor<br>Senha: leitor</p>
