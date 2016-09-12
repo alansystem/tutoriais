@@ -10,10 +10,6 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
--- Copiando estrutura do banco de dados para tutoriais
-DROP DATABASE IF EXISTS `tutoriais`;
-CREATE DATABASE IF NOT EXISTS `tutoriais` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `tutoriais`;
 
 
 -- Copiando estrutura para tabela tutoriais.artigos
