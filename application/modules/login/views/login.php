@@ -34,7 +34,7 @@
 <!--<![endif]-->
 
   <div class="box-header">
-    <h2>Administração - MMTECH</h2>
+    <h2>Administração</h2>
   </div>
   <div class="box" style="height:190px">
   
